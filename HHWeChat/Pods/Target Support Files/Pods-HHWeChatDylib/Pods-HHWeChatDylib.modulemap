@@ -1,0 +1,6 @@
+framework module Pods_HHWeChatDylib {
+  umbrella header "Pods-HHWeChatDylib-umbrella.h"
+
+  export *
+  module * { export * }
+}
